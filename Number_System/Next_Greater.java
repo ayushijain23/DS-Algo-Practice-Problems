@@ -6,8 +6,8 @@ package Number_System;
  * Input : 213
  * Output : 231
  * 
- * Input : 234678
- * Output : 236478
+ * Input : 2346789
+ * Output : 2364789
  */
 public class Next_Greater {
 
