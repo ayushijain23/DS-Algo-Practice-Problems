@@ -2,6 +2,7 @@ package DP;
 
 /*
 https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
+Standard problem
  */
 public class EggDrop {
 
