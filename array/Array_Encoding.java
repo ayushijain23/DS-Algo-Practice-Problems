@@ -9,6 +9,7 @@ import java.util.HashMap;
  *  Sample Input -“wwwwaaadexxxxxx”
  *  Output - “w4a3d1e1x6”.
  *  
+ *12
 */
 
 
