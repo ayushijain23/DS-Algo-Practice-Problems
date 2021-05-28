@@ -1,5 +1,5 @@
 package array;
-
+//example
 public class Check_1s_at_K_Places {
 	
 	private static boolean kLengthApart(int[] nums, int k)
