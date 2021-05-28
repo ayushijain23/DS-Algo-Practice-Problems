@@ -3,6 +3,7 @@ package Sorting;
 /*
  * 
  * arr.length-1 iterations occur, and in each iteration, largest element reaches to end of array.
+   O(n2)
  */
 public class Bubble_Sort {
 	
