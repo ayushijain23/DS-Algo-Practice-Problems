@@ -13,6 +13,7 @@ Input: s = "abbcccddddeeeeedcba"
 Output: 5
 Explanation: The substring "eeeee" is of length 5 with the character 'e' only.
 
+Done
 
  */
 public class consecutive_Characters {
