@@ -3,9 +3,11 @@ package array;
 /*
  * 
  * https://www.geeksforgeeks.org/count-frequencies-elements-array-o1-extra-space-time/
- * 
+ * Example-
  * Input: arr[] = {2, 3, 3, 2, 5}
    Output: Below are frequencies of all elements
+   
+   
         1 -> 0
         2 -> 2
         3 -> 2
