@@ -1,5 +1,7 @@
 package LinkedList;
+/*
 
+*/
 public class Left_Rotation {
 static Node head1;
 	
