@@ -10,6 +10,7 @@ There are two ways to reach the bottom-right corner:
 1. Right -> Right -> Down -> Down
 2. Down -> Down -> Right -> Right
 
+It's an Standard problem
 
  */
 public class Count_Matrix_Path_Obstacles {
