@@ -2,7 +2,9 @@ package Tree;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+imp questions
+*/
 public class Flatten_BST {
 	  Node root;
 	  //static List<Integer> list = new ArrayList<>();
