@@ -1,6 +1,7 @@
 package Sorting;
 
 import java.util.Scanner;
+//Insertion sort - O(n^2)
 
 public class insertionSort {
 	
