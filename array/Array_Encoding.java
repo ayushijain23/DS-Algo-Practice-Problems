@@ -2,15 +2,7 @@ package array;
 
 import java.util.HashMap;
 
-/*
- * Given an input string - “wwwwaaadexxxxxx”,
- *  write a function that returns the Run Length Encoded string for the input string.
- *  
- *  Sample Input -“wwwwaaadexxxxxx”
- *  Output - “w4a3d1e1x6”.
- *  
- *12
-*/
+
 
 
 public class Array_Encoding {
