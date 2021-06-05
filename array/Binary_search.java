@@ -1,12 +1,8 @@
 package array;
 
-
 /*
- * search a no x in an Array without finding out the length of array.
- * 
- * Soltion - we will start from 0th index, and increase in twice the previous step
- *          so steps would be - 0,1,2,4,8,16, 32....
- */
+added
+*/
 public class Binary_search {
 
 	private static int  search(int low,int high,int x, int arr[])
