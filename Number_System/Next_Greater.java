@@ -8,6 +8,8 @@ package Number_System;
  * 
  * Input : 2346789
  * Output : 2364789
+ 
+ done
  */
 public class Next_Greater {
 
