@@ -1,9 +1,6 @@
 package DP;
 
-
-/*
- * 
- */
+//example
 public class MaxPathSum2_Matrix {
 	
 	public static int findMaxPathSum(int[][]grid)

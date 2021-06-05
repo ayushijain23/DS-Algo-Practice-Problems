@@ -1,9 +1,5 @@
 package Sorting;
 
-/*
- * 
- * arr.length-1 iterations occur, and in each iteration, largest element reaches to end of array.
- */
 public class Bubble_Sort {
 	
 	public static void printArray(int arr[])
